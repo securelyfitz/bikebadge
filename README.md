@@ -20,7 +20,7 @@ This makes very simple code possible
 ## Bill of Materials:
 * 14x OSRAM reverse-gullwing LEDs (LYT776 YELLOW LED is what i used, 475-2801-1-ND)
 * 14x 200 Ohm 1206 SMT Resistor (digikey 311-10MERCT-ND)
-* 2x 10M Ohm 0603 Resistor (digikey 311-200GRCT-ND)
+* 2x 10M Ohm 0805 Resistor (digikey RMCF0805JT10M0CT-ND)
 * 1x ATTiny85 soic8 ()
 * 1x 20mm through-hole CR2032 holder and battery
 
